@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritinsekar&" alt="kritinsekar" /></p>
 
-[![Spotify](https://spotify-now-playing-git-main-kritin-sekar-r-ss-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-two-phi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
