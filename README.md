@@ -11,9 +11,6 @@
 <p align="left"></p>
 
 ###
-<div width="500px">
-  
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kritin-sekar-r-s/" target="_blank">
@@ -108,7 +105,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31osopgjoilveerxksjjt2aexrya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osopgjoilveerxksjjt2aexrya&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osopgjoilveerxksjjt2aexrya&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
