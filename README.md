@@ -5,22 +5,14 @@
 <br>
 
 ###
-<br>
-<br>
-
 
 <h3 align="left">👋 Hi, I'm Kritin Sekar R S!<br><br>🎓 I'm currently pursuing a BTech in Computer Science and Engineering (CSE), with specialization on Artificial Intelligence and Machine Learning.<br><br>💻 I'm also a passionate Full Stack Web Developer, always eager to learn new technologies and improve my skills.<br><br>🔧 Here are a few things I enjoy working with:<br><br>🌐 Frontend: HTML, CSS, TailWind CSS, Bootstrap, JavaScript, TypeScript, REACT.<br><br>📅 Backend: Node.js, Express.<br><br>📂Databases: MongoDB.<br><br>📫 Feel free to reach out to me at rskritin@gmail.com.<br><br>🚀 Let's connect and collaborate on exciting projects!</h3>
-
-<br>
-<br>
 
 ###
 
 <p align="left"></p>
 
 ###
-<br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kritin-sekar-r-s/" target="_blank">
@@ -33,13 +25,13 @@
 </div>
 
 <br>
-<br>
 
 ###
 
 <p align="left"></p>
 
 ###
+
 <br>
 <br>
 
@@ -48,8 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritinsekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
+
 <br>
-<br>
+
 ###
 
 <p align="left"></p>
