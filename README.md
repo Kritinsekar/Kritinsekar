@@ -8,6 +8,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/kritin-sekar-r-s/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=KRITIN%20SEKAR%20R%20S&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -20,10 +24,22 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kritinsekar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=STATS" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritinsekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -71,6 +87,18 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh5cHE5NGE5NXAxa2NtYjY0bnVzZ3NiMHp1M3dvNDJtandiOWtlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif"  />
 
 ###
@@ -80,6 +108,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31osopgjoilveerxksjjt2aexrya&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
