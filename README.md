@@ -116,7 +116,9 @@
 
 ###
 
-<img align="center" height="240" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh5cHE5NGE5NXAxa2NtYjY0bnVzZ3NiMHp1M3dvNDJtandiOWtlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif"  />
+<div align="center">
+  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh5cHE5NGE5NXAxa2NtYjY0bnVzZ3NiMHp1M3dvNDJtandiOWtlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif"  />
+</div>
 
 <br>
 
